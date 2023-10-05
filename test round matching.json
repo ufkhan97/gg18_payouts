@@ -1,0 +1,18 @@
+[
+    {
+        "projectName": "my test",
+        "payoutAddress": "0x616cad18642f45d3fa5fcaad0a2d81764a9cba84",
+        "totalReceived": 0,
+        "contributionsCount": 0,
+        "matchedUSD": 9.00,
+        "matched": "9000000000000000000"
+    },
+    {
+        "projectName": "Test",
+        "payoutAddress": "0x1490bc4a47871629b3bfe9ec1c0c0c3e55df6067",
+        "totalReceived": 0.0,
+        "contributionsCount": 0,
+        "matchedUSD": 1.0,
+        "matched": "1000000000000000000"
+    }
+]

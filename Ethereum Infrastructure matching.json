@@ -1,0 +1,226 @@
+[
+    {
+        "projectName": "Armiarma v2",
+        "payoutAddress": "0x492d683a51613abcef3ad233149d69b7fe60fbd7",
+        "totalReceived": 1175.99143083,
+        "contributionsCount": 1280,
+        "matchedUSD": 951.2,
+        "matched": "580000000000000000"
+    },
+    {
+        "projectName": "Baseline Protocol",
+        "payoutAddress": "0xd32d7f3d8439249ce0cfe134d22eca7094955524",
+        "totalReceived": 3078.23871749,
+        "contributionsCount": 2117,
+        "matchedUSD": 3509.6,
+        "matched": "2140000000000000000"
+    },
+    {
+        "projectName": "Blockscout - Decentralized, Open-source Block Explorer Built for L1s, L2s and All Chains",
+        "payoutAddress": "0xc97f252c07111c058129a9d68622f7d5c418c737",
+        "totalReceived": 3709.64409986,
+        "contributionsCount": 2334,
+        "matchedUSD": 8183.6,
+        "matched": "4990000000000000000"
+    },
+    {
+        "projectName": "Candide Labs",
+        "payoutAddress": "0xc52fbf3769056ca421656b9c98b14a453a251a28",
+        "totalReceived": 2320.71249184,
+        "contributionsCount": 1663,
+        "matchedUSD": 2919.2,
+        "matched": "1780000000000000000"
+    },
+    {
+        "projectName": "EIP Fun",
+        "payoutAddress": "0xee972e35311f65e6fd8f6ea7228bf388b53e1d4a",
+        "totalReceived": 678.27302365,
+        "contributionsCount": 845,
+        "matchedUSD": 196.8,
+        "matched": "120000000000000000"
+    },
+    {
+        "projectName": "EthStaker",
+        "payoutAddress": "0xd165df4296c85e780509fa1eace0150d945d49fd",
+        "totalReceived": 8748.32478024,
+        "contributionsCount": 5118,
+        "matchedUSD": 17531.6,
+        "matched": "10690000000000000000"
+    },
+    {
+        "projectName": "Ethereum Attestation Service",
+        "payoutAddress": "0xcabf67f2c6ef266d68e4206d0a78e035121730bd",
+        "totalReceived": 3990.03558722,
+        "contributionsCount": 2171,
+        "matchedUSD": 7150.4,
+        "matched": "4360000000000000512"
+    },
+    {
+        "projectName": "Ethereum Staking Guides by CoinCashew",
+        "payoutAddress": "0xcf83d0c22dd54475cc0c52721b0ef07d9756e8c0",
+        "totalReceived": 1161.79336426,
+        "contributionsCount": 1084,
+        "matchedUSD": 1066.0,
+        "matched": "650000000000000000"
+    },
+    {
+        "projectName": "Ethereum on ARM",
+        "payoutAddress": "0x1bcdb2226ee2b023e3886dd2027c4ee95457699f",
+        "totalReceived": 1986.67117648,
+        "contributionsCount": 1293,
+        "matchedUSD": 1968.0,
+        "matched": "1200000000000000000"
+    },
+    {
+        "projectName": "Ethscriptions",
+        "payoutAddress": "0xc2172a6315c1d7f6855768f843c420ebb36eda97",
+        "totalReceived": 7456.69684922,
+        "contributionsCount": 2971,
+        "matchedUSD": 7445.6,
+        "matched": "4540000000000000000"
+    },
+    {
+        "projectName": "INTMAX",
+        "payoutAddress": "0x8144c9927611b84eeee1ac20d210ec0afa3b237b",
+        "totalReceived": 21537.48909887,
+        "contributionsCount": 7795,
+        "matchedUSD": 17531.6,
+        "matched": "10690000000000000000"
+    },
+    {
+        "projectName": "Iron Wallet",
+        "payoutAddress": "0x4b7f6bfd248f541eb5474f591d54bc29444946db",
+        "totalReceived": 6638.41974087,
+        "contributionsCount": 4204,
+        "matchedUSD": 17531.6,
+        "matched": "10690000000000000000"
+    },
+    {
+        "projectName": "L2BEAT",
+        "payoutAddress": "0x41626ba92c0c2a1ad38fc83920300434082b1870",
+        "totalReceived": 13270.17807849,
+        "contributionsCount": 6175,
+        "matchedUSD": 17531.6,
+        "matched": "10690000000000000000"
+    },
+    {
+        "projectName": "Lighthouse by Sigma Prime",
+        "payoutAddress": "0xc9a872868afa68ba937f65a1c5b4b252dab15d85",
+        "totalReceived": 6250.45353154,
+        "contributionsCount": 3444,
+        "matchedUSD": 11627.6,
+        "matched": "7090000000000000000"
+    },
+    {
+        "projectName": "NiceNode: Run a node \u2014 just press start",
+        "payoutAddress": "0x9cce47e9cf12c6147c9844adbb81fe85880c4df4",
+        "totalReceived": 3056.04404091,
+        "contributionsCount": 2076,
+        "matchedUSD": 3575.2,
+        "matched": "2180000000000000256"
+    },
+    {
+        "projectName": "PLUME: Pseudonymously Linked Unique Message Entities, aka Verifiably Deterministic Signatures on Ethereum",
+        "payoutAddress": "0x23ada6e6a9e9d4ecddd185e3ec353163bceebf2a",
+        "totalReceived": 848.5822654,
+        "contributionsCount": 934,
+        "matchedUSD": 410.0,
+        "matched": "250000000000000000"
+    },
+    {
+        "projectName": "Parallelized Monte Carlo methods for algorithmic mechanism design",
+        "payoutAddress": "0x93793660aa3bad1252548c86fed0e2e4e28dd0bc",
+        "totalReceived": 733.16832259,
+        "contributionsCount": 830,
+        "matchedUSD": 246.0,
+        "matched": "150000000000000000"
+    },
+    {
+        "projectName": "Protocol Guild",
+        "payoutAddress": "0x0b916095200313900104bacfc288462682c38700",
+        "totalReceived": 8187.35794266,
+        "contributionsCount": 4139,
+        "matchedUSD": 17531.6,
+        "matched": "10690000000000000000"
+    },
+    {
+        "projectName": "Somer Esat Ethereum Staking Guides (Ubuntu)",
+        "payoutAddress": "0x32b74b90407309f6637245292cd90347de658a37",
+        "totalReceived": 1106.53915416,
+        "contributionsCount": 978,
+        "matchedUSD": 770.8,
+        "matched": "470000000000000000"
+    },
+    {
+        "projectName": "Stereum - Ethereum Node Installer & Manager",
+        "payoutAddress": "0x6e41fe2f8303b89c9dbccabe59a7f7f8f4312ca9",
+        "totalReceived": 1461.94563844,
+        "contributionsCount": 1139,
+        "matchedUSD": 1033.2,
+        "matched": "630000000000000000"
+    },
+    {
+        "projectName": "The Forus",
+        "payoutAddress": "0x0daa1d7ec140f26fb1f8de77b355b72fbadf7f84",
+        "totalReceived": 1497.31047494,
+        "contributionsCount": 1305,
+        "matchedUSD": 1180.8,
+        "matched": "720000000000000000"
+    },
+    {
+        "projectName": "Topia Shared DA",
+        "payoutAddress": "0x934d46ae4ae4b131bfa095ca971a8cbcd3b30ea8",
+        "totalReceived": 3122.8637485,
+        "contributionsCount": 1383,
+        "matchedUSD": 1082.4,
+        "matched": "660000000000000000"
+    },
+    {
+        "projectName": "TrueBlocks and the Unchained Index",
+        "payoutAddress": "0x89d107a9f019b4dc5dca227d991c89e4e7251ff5",
+        "totalReceived": 2413.79659234,
+        "contributionsCount": 1561,
+        "matchedUSD": 2378.0,
+        "matched": "1450000000000000000"
+    },
+    {
+        "projectName": "beaconcha.in",
+        "payoutAddress": "0x9d4e94db689bc471e45b0a18b7bda36fccec9c3b",
+        "totalReceived": 2995.1523775,
+        "contributionsCount": 1644,
+        "matchedUSD": 3985.2,
+        "matched": "2430000000000000000"
+    },
+    {
+        "projectName": "eth-wizard: An Ethereum validator installation wizard",
+        "payoutAddress": "0xdbb16c68aa373229db9f37d85087264361691ab9",
+        "totalReceived": 1841.62828887,
+        "contributionsCount": 1551,
+        "matchedUSD": 2050.0,
+        "matched": "1250000000000000000"
+    },
+    {
+        "projectName": "eth.limo",
+        "payoutAddress": "0xb352bb4e2a4f27683435f153a259f1b207218b1b",
+        "totalReceived": 5933.7806821,
+        "contributionsCount": 3389,
+        "matchedUSD": 12628.0,
+        "matched": "7700000000000000000"
+    },
+    {
+        "projectName": "ethers.js",
+        "payoutAddress": "0x8ba1f109551bd432803012645ac136ddd64dba72",
+        "totalReceived": 4035.8172357,
+        "contributionsCount": 2187,
+        "matchedUSD": 6018.8,
+        "matched": "3670000000000000000"
+    },
+    {
+        "projectName": "wagmi",
+        "payoutAddress": "0xd2135cfb216b74109775236e36d4b433f1df507b",
+        "totalReceived": 4639.42295745,
+        "contributionsCount": 2101,
+        "matchedUSD": 7281.6,
+        "matched": "4440000000000000512"
+    }
+]
