@@ -845,19 +845,6 @@
         "matchedWithoutCap": "0"
     },
     {
-        "applicationId": "88",
-        "projectId": "0xdc966adbaa419c7c705ac8e964da70c6f93d6e1944adc4f492aa101bde09e9d1",
-        "projectName": "Public Assembly",
-        "payoutAddress": "0xa78e8a72f6902148b5ec2faa693d6c0173c60052",
-        "matchedUSD": 47.67,
-        "totalReceived": "296308092480000032768",
-        "contributionsCount": "284",
-        "matched": "47670000000000000000",
-        "sumOfSqrt": "0",
-        "capOverflow": "0",
-        "matchedWithoutCap": "0"
-    },
-    {
         "applicationId": "89",
         "projectId": "0x0714cfd7e8a92f4406e170bd9a18c9d4848cc7e1f2155aa741ba2a556c6bb151",
         "projectName": "Solhint",
