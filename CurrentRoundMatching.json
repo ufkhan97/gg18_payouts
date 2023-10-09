@@ -416,19 +416,6 @@
         "matchedWithoutCap": "0"
     },
     {
-        "applicationId": "43",
-        "projectId": "0xda81fa8d6c91cabf87211c663f1e45551d6300438f3f28d81db71ad877c6b84d",
-        "projectName": "Antisat",
-        "payoutAddress": "0x3f6b5df4a6fdae2b58e3f5aa7037e68e1eac9188",
-        "matchedUSD": 149.83,
-        "totalReceived": "72166266669999996928",
-        "contributionsCount": "41",
-        "matched": "149830000000000000000",
-        "sumOfSqrt": "0",
-        "capOverflow": "0",
-        "matchedWithoutCap": "0"
-    },
-    {
         "applicationId": "44",
         "projectId": "0xd056d69a245241948593f7359f070fccf7995498ba89bc52183651313692437f",
         "projectName": "CryptoMx",
@@ -1503,19 +1490,6 @@
         "totalReceived": "134617834930000019456",
         "contributionsCount": "72",
         "matched": "236290000000000000000",
-        "sumOfSqrt": "0",
-        "capOverflow": "0",
-        "matchedWithoutCap": "0"
-    },
-    {
-        "applicationId": "156",
-        "projectId": "0x0590666222d36275454dafe41c55dc3e6df27e2e60776429a983c66a2ae515f8",
-        "projectName": "500K by 2030",
-        "payoutAddress": "0x1410cbdde7b75d11d27055c57b4d81585bd36ce9",
-        "matchedUSD": 232.7,
-        "totalReceived": "134617834930000019456",
-        "contributionsCount": "72",
-        "matched": "232700000000000000000",
         "sumOfSqrt": "0",
         "capOverflow": "0",
         "matchedWithoutCap": "0"
